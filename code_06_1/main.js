@@ -58,4 +58,4 @@ function isPerfectSquare(num) {
     return sqrt === Math.floor(sqrt);
 }
 console.log(isPerfectSquare(16)); // true
-console.log(isPerfectSquare(49)); // false
+console.log(isPerfectSquare(47)); // false
